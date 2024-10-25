@@ -52,7 +52,7 @@
                     </div>
                     <div class="card-body">
                         <a href="agregarCamion.jsp" class="btn btn-primary">Agregar Camion</a>
-                        <a href="" class="btn btn-primary">Agregar Piloto</a>
+                        <a href="agregarPiloto.jsp" class="btn btn-primary">Agregar Piloto</a>
                         
                     </div>
                 </div>
