@@ -58,6 +58,21 @@
                 </div>
             </div>
         </div>
+        
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Gestion de operaciones</h5>
+                        <p class="card-text">Accede a la administración de entradas y salidalas de camiones.</p>
+                        <a href="vistas/entradas.jsp" class="btn btn-primary">Administrar Movimientos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
         <div class="text-center mt-4">
             <a href="LogoutServlet" class="btn btn-danger">Cerrar sesión</a>
         </div>
